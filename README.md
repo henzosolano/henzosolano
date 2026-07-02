@@ -1,4 +1,4 @@
-# Bem vindo sou Henzo Solano
+# Bem-vindo, sou Henzo Solano
 
 Sou estudante de desenvolvimento de software com foco na criação de aplicações profissionais, SaaS e automações utilizando Inteligência Artificial.
 
