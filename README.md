@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bem vindo sou Henzo Solano
 
-<!--
-**henzosolano/henzosolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento de software com foco na criação de aplicações profissionais, SaaS e automações utilizando Inteligência Artificial.
 
-Here are some ideas to get you started:
+## Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- Node.js
+- PostgreSQL
+- Git & GitHub
+- Claude Code
+- Engenharia de Software
+
+## Objetivos
+
+- Construir produtos reais
+- Desenvolver SaaS para empresas
+- Aprender arquitetura de software
+- Trabalhar com IA aplicada ao desenvolvimento
+
+## Projetos
+
+ Em desenvolvimento...
